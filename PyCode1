@@ -1,0 +1,6 @@
+a1 = int(input("Enter number"))
+a2 = int(input("Enter number"))
+def sum(a, b):
+  return a+b
+sum(a1,a2)
+print(sum)
